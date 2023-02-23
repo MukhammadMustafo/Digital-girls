@@ -96,8 +96,6 @@ function Home() {
                   <span className={value == true? 'span__menu spancha' : 'span__menu'}></span>
                 </label>
 
-
-
               </div>
               <ul className={value == true? 'ul__menu' : 'ul__none'} >
                   {
